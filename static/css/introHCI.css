@@ -1,11 +1,4 @@
 /* applies to anything of class "example-class-selector" */
-.project {
-	margin-left: 20px;
-	background-color: #DEEBF8;
-	padding: 30px;
-	width: 530px;
-}
-
 p {
 	font-variant: small-caps;
 }
